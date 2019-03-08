@@ -9,6 +9,16 @@ public class LoginPageTest {
 	{
 		System.out.println(" Tilte test of Login page. ");
 	}
+	@Test
+	public void logcheck()
+	{
+		System.out.println("Logo check");
+	}
+	@Test
+	public void menuTest()
+	{
+		System.out.println("menu test check");
+	}
 	
 	
 }
